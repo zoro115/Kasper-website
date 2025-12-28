@@ -45,3 +45,36 @@ The website is built with a **mobile-first approach** and uses **CSS Flexbox** t
 
 ## 📁 Project Structure
 
+kasber/
+│
+├── css/
+│ └── style.css
+├── images/
+├── videos/
+├── index.html
+└── README.md
+
+
+---
+
+## 📌 What I Learned
+
+- Building responsive layouts using Flexbox
+- Writing semantic HTML for better structure and accessibility
+- Improving UI/UX using pure CSS techniques
+- Organizing a scalable and clean project structure
+
+---
+
+## 📬 Contact
+
+**Ibrahim Himida**  
+Frontend Developer  
+GitHub: https://github.com/zoro115  
+LinkedIn: https://www.linkedin.com/in/ibrahim-himida-369a03230/
+
+---
+
+⭐ If you like this project, feel free to give it a star!
+
+
